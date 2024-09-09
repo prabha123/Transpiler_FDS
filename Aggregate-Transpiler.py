@@ -35,8 +35,8 @@ dbutils.library.restartPython()
 # COMMAND ----------
 
 # DBTITLE 1,Open AI Credentials
-AZURE_OPENAI_API_KEY = '56c25056db95494ab740150f4c591ec4'
-AZURE_OPENAI_ENDPOINT = 'https://oai-fds-eastus2.openai.azure.com/'
+AZURE_OPENAI_API_KEY = 'Your Token'
+AZURE_OPENAI_ENDPOINT = 'Your Endpoint'
 
 # COMMAND ----------
 
